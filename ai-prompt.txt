@@ -1,0 +1,1 @@
+act as editor for an article in Russian, review the content, which is a auto generated from audio file, and of course have have mislagment with original audio. Format text, fix grammar, replace some word, which can be wrongly interpritaed with a rigth word (when replace, makea comment that wordwas replaced. I will give text piece by piece
